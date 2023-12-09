@@ -40,6 +40,8 @@
 
 <b>MedCamp Hub</b> is an medical Camp Management System Website. In this website, Organizers organize medical camps, Healthcare professionals provide services in medical camps, and Praticipants can join the medical camps for taking services.
 
+<a href="https://med-camp-hub.web.app">View Demo</a>
+
 ### Project Features:
 
 - A user can see 6 popular camps in the home page. By clicking the 'View More' button he/she can see the details of that camp.
@@ -54,17 +56,19 @@
 
 <br />
 
-<h2 align="center"><b>MedCamp Hub</b></h2>
+<h2 align="center"><b>NexTechy</b></h2>
 <br />
 
- <a align='center' href="https://med-camp-hub.web.app">
-    <img align='center' src="https://i.ibb.co/Yhdbhzx/image.png" alt="Project Image" width="1000px" height="300">
+ <a align='center' href="https://nextechy-97707.web.app">
+    <img align='center' src="https://i.ibb.co/ftS9S8J/image.png" alt="Project Image" width="1000px" height="300">
   </a>
 
 <br/>
 <br/>
 
-<b>MedCamp Hub</b> is an medical Camp Management System Website. In this website, Organizers organize medical camps, Healthcare professionals provide services in medical camps, and Praticipants can join the medical camps for taking services.
+<b>NexTechy</b> is a technology related blogging website. Users can see recent blogs on the home page. Users can read those blogs and can save a wishlist for future reading.
+
+<a href="https://nextechy-97707.web.app">View Demo</a>
 
 ### Project Features:
 
@@ -79,5 +83,33 @@
 - A user can add blogs to wishlist for reading later.
 
 - A user can delete any blog from wishlist.
+
+<br />
+
+<h2 align="center"><b>Electra</b></h2>
+<br />
+
+ <a align='center' href="https://electra-2351c.web.app">
+    <img align='center' src="https://i.ibb.co/ftS9S8J/image.png" alt="Project Image" width="1000px" height="300">
+  </a>
+
+<br/>
+<br/>
+
+<b>Electra</b> is a product selling related website. A user can see top brands on the home page. Users can see the products of those brands.
+
+<a href="https://electra-2351c.web.app">View Demo</a>
+
+### Project Features:
+
+- The website contains light and dark theme.
+
+- A user can see the products of each brand.
+
+- A user can see the details of each product.
+
+- A user can add products to cart.
+
+- A user can delete any product from the cart.
 
 <br />
