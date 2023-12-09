@@ -1,15 +1,15 @@
-<h2 align="center">Hi there, I'm Imtiaz Ahmed Sakib</h2>
+<h1 align="center">Hi there, I'm Imtiaz Ahmed Sakib</h1>
+<p align="center">
+  <a><img src="https://i.ibb.co/j5JGM7D/github.png;&center=true&width=500&height=50"></a>
+</p>
 
 ## Current Stats
 
-[<p align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imtiazsakib15&theme=cobalt2&hide_border=true)
-
-</p>]
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=imtiazsakib15&theme=cobalt2&hide_border=true" alt="GitHub Streak" /></p>
 
 ## Technologies
 
-<p>
+<p align="center">
 <img src="./icons/React-Dark.svg" width="48"> 
 <img src="./icons/JavaScript.svg" width="48"> 
 <img src="./icons/TailwindCSS.svg" width="48"> 
@@ -22,17 +22,4 @@
 
 ## My Recent Projects
 
-<!--
-**imtiazsakib15/imtiazsakib15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br />
