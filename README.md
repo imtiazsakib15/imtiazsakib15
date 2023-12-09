@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-<b>MedCamp Hub</b> is an medical Camp Management System Website. In this website, Organizers organize medical camps, Healthcare professionals provide services in medical camps, and Praticipants can join the medical camps for taking services.
+<b>MedCamp Hub</b> is a medical Camp Management System Website. In this website, Organizers organize medical camps, Healthcare professionals provide services in medical camps, and Participants can join the medical camps for taking services.
 
 <a href="https://med-camp-hub.web.app">View Demo</a>
 
