@@ -90,7 +90,7 @@
 <br />
 
  <a align='center' href="https://electra-2351c.web.app">
-    <img align='center' src="https://i.ibb.co/ftS9S8J/image.png" alt="Project Image" width="1000px" height="300">
+    <img align='center' src="https://i.ibb.co/tP5Lsxy/image.png" alt="Project Image" width="1000px" height="300">
   </a>
 
 <br/>
