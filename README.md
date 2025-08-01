@@ -7,7 +7,9 @@
 
 ## Current Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=imtiazsakib15&theme=cobalt2&hide_border=true" alt="GitHub Streak" /></p>
+<p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=imtiazsakib15&theme=cobalt2&hide_border=false" alt="GitHub Streak" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazsakib15&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="GitHub Streak" /></p>
 
 <br />
 
