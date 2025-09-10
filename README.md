@@ -16,14 +16,27 @@
 ## Technologies
 
 <p align="center">
-<img src="./icons/React-Dark.svg" width="48"> 
-<img src="./icons/JavaScript.svg" width="48"> 
-<img src="./icons/TailwindCSS.svg" width="48"> 
 <img src="./icons/HTML.svg" width="48"> 
 <img src="./icons/CSS.svg" width="48"> 
+<img src="./icons/JavaScript.svg" width="48"> 
+<img src="./icons/TypeScript.svg" width="48"> 
+<img src="./icons/React-Dark.svg" width="48"> 
+<img src="./icons/NextJS-Dark.svg" width="48"> 
+<img src="./icons/Redux.svg" width="48"> 
+<img src="./icons/TailwindCSS.svg" width="48"> 
+<img src="./icons/Bootstrap.svg" width="48"> 
+<img src="./icons/NodeJS-Dark.svg" width="48"> 
 <img src="./icons/ExpressJS.svg" width="48"> 
+<img src="./icons/NestJS-Dark.svg" width="48"> 
+<img src="./icons/PostgreSQL-Dark.svg" width="48"> 
 <img src="./icons/MongoDB.svg" width="48"> 
+<img src="./icons/Prisma.svg" width="48"> 
 <img src="./icons/Firebase.svg" width="48"> 
+<img src="./icons/VSCode.svg" width="48"> 
+<img src="./icons/Github.svg" width="48"> 
+<img src="./icons/PostgreSQL-Dark.svg" width="48"> 
+<img src="./icons/Figma.svg" width="48"> 
+<img src="./icons/Npm-Dark.svg" width="48"> 
 </p>
 
 <br />
