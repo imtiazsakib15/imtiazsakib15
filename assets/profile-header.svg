@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Md. Imtiaz Ahmed Sakib — Full Stack Developer</title>
+  <desc id="desc">A dark navy technical banner with subtle grid lines, indigo accents, and a developer identity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111c32"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94a3b8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <circle cx="1050" cy="60" r="180" fill="#6366f1" opacity=".10"/>
+  <circle cx="1120" cy="285" r="150" fill="#22d3ee" opacity=".07"/>
+  <path d="M0 268H1200" stroke="url(#accent)" stroke-opacity=".7" stroke-width="2"/>
+  <rect x="72" y="70" width="5" height="176" rx="2.5" fill="url(#accent)"/>
+  <text x="108" y="125" fill="#a5b4fc" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="4">FULL STACK DEVELOPER</text>
+  <text x="105" y="184" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Md. Imtiaz Ahmed Sakib</text>
+  <text x="108" y="222" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="19">Building modern web applications, APIs &amp; data-driven products.</text>
+  <text x="108" y="278" fill="#94a3b8" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="1.5">DHAKA, BANGLADESH</text>
+  <g transform="translate(1000 116)" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".9">
+    <path d="M0 0L-35 36L0 72M54 0L89 36L54 72"/>
+    <path d="M37 -10L17 82"/>
+    <circle cx="27" cy="36" r="78" stroke="#94a3b8" stroke-opacity=".18" stroke-dasharray="4 10"/>
+  </g>
+</svg>
